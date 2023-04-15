@@ -70,7 +70,7 @@
                 echo '<p>Dato cargado</p>';
             }
             ?>
-            <!-- Mostrar información -->
+            <!-- Mostrar información para verificar-->
             
             <?php
             /*
